@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nightlord", "Assembly-CSharp.csproj", "{379EFC2F-3576-D3C6-5FE5-119AE371329B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nightlord", "Assembly-CSharp-Editor.csproj", "{7646E3EB-7003-53F2-0D4D-8FF44C143E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{379EFC2F-3576-D3C6-5FE5-119AE371329B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379EFC2F-3576-D3C6-5FE5-119AE371329B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379EFC2F-3576-D3C6-5FE5-119AE371329B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379EFC2F-3576-D3C6-5FE5-119AE371329B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7646E3EB-7003-53F2-0D4D-8FF44C143E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7646E3EB-7003-53F2-0D4D-8FF44C143E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7646E3EB-7003-53F2-0D4D-8FF44C143E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7646E3EB-7003-53F2-0D4D-8FF44C143E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
